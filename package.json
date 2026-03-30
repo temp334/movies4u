@@ -1,0 +1,11 @@
+{
+  "name": "movies4u-addon",
+  "version": "1.0.0",
+  "description": "Movies4u Stremio Addon",
+  "main": "server.js",
+  "dependencies": {
+    "stremio-addon-sdk": "^1.6.10",
+    "node-fetch": "^2.6.7",
+    "cheerio": "^1.0.0-rc.12"
+  }
+}
